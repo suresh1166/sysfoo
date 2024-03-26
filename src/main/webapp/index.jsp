@@ -30,7 +30,7 @@
 							</div>
 						<div class="content">
 							<div class="inner">
-								<h1>UPDATED version 1.0.7/h1>
+								<h1>NEW UPDATED version 1.0.7/h1>
 								<h2>SYSTEM INFO</h2>
 								<a  class="button special"><% out.println(request.getLocalAddr()); %></a>
 								<p>
